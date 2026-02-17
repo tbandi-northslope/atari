@@ -2,7 +2,7 @@
 
 A comprehensive setup for training RL agents on classic Atari 2600 games using Gymnasium and PyTorch.
 
-📊 **[View Live Training Dashboard →](https://yourusername.github.io/atari/)**
+📊 **[View Live Training Dashboard →](https://tbandi-northslope.github.io/atari/)**
 
 ## 🌟 Features
 
@@ -19,7 +19,7 @@ A comprehensive setup for training RL agents on classic Atari 2600 games using G
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/atari.git
+git clone https://github.com/tbandi-northslope/atari.git
 cd atari
 
 # Create virtual environment
@@ -81,7 +81,7 @@ atari/
 
 ## 📈 Training Results
 
-View live dashboard at: **[yourusername.github.io/atari](https://yourusername.github.io/atari/)**
+View live dashboard at: **[tbandi-northslope.github.io/atari](https://tbandi-northslope.github.io/atari/)**
 
 Recent runs:
 - **Pong**: 10 episodes, avg reward -20.20
